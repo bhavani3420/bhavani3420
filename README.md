@@ -9,4 +9,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 📚 I’m currently learning  frontend web development using HTML, CSS and JAVASCRIPT.
 - 👯 I’m looking for a software development internship. 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/bhavani-saladi-758373286) [Gmail](mailto:saladibhavani8@gmail.com)
-⭐️ searching for opportunities to grow and learn.
+- ⭐️ searching for opportunities to grow and learn.
